@@ -1,6 +1,6 @@
 # Encrypto-Anonymizer
 
-A simple Google Colab-based tool by **Elizabeth Shamblin** to anonymize and encrypt CSV data securely. 
+A simple Google Colab-based tool by **Elizabeth Shamblin** to anonymize and encrypt CSV data securely, convenient for instructors who want to analyze Moodle forum data
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leshamblin/encrypto-anonymizer/blob/main/encrypto_anonymizer.ipynb)
 
