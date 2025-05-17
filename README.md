@@ -2,6 +2,8 @@
 
 A simple Google Colab-based tool by **Elizabeth Shamblin** to anonymize and encrypt CSV data securely.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/leshamblin/encrypto-anonymizer/blob/main/encrypto_anonymizer.ipynb)
+
 ## Features
 - Anonymizes sensitive identifiers (e.g., names, emails, IDs)
 - Creates a secure encrypted mapping file for future de-anonymization
