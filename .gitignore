@@ -1,0 +1,7 @@
+	.idea/
+	.venv/
+	.ipynb_checkpoints/
+	anonymized.csv
+	key.key
+	mapping.json
+	uv.lock
